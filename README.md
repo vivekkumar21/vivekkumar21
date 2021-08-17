@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vivekkumar21
-- 👀 I’m interested in UI Developement
+- 👀 I’m interested in UI Development
 - 🌱 I’m currently learning ReactJS
 
 <!---
